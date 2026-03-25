@@ -1,8 +1,6 @@
 ## Interface: 120000
 ## Title: GoomiMediaAssets
-## Notes: Register custom textures, sounds, and fonts with LibSharedMedia without editing Lua
 ## Author: Goomi
-## Version: 1.0.0
 ## X-Curse-Project-ID: 1495576
 ## Category: Goomi|cFF3AC2D6U|r|cFFEE2D40I|r
 ## OptionalDeps: GoomiUI, LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
