@@ -3,14 +3,11 @@
 ## Author: Goomi
 ## X-Curse-Project-ID: 1495576
 ## Category: Goomi|cFF3AC2D6U|r|cFFEE2D40I|r
-## OptionalDeps: GoomiUI, LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
 ## IconTexture: Interface\Icons\INV_Misc_Book_07
 ## SavedVariables: GoomiMediaAssetsDB
 
-#@no-lib-strip@
 Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
-#@end-no-lib-strip@
 
 goomimediaassets.lua
