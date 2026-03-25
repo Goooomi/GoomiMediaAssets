@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: GoomiMediaAssets
 ## Author: Goomi
 ## X-Curse-Project-ID: 1495576
